@@ -1,0 +1,11 @@
+- text: Eo
+  url: /eo/
+- text: EFL
+  url: /efl/
+  subitems:
+    - text: Eina
+      url: /efl/eina/
+    - text: Evas
+      url: /efl/evas/
+- text: Elementary
+  url: /elementary/

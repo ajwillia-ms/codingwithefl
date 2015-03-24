@@ -525,6 +525,7 @@ aside#sidebar p.repo-owner a {
 
 aside#sidebar .nav ul {
   list-style: none;
+  margin-bottom: 0;
 }
 
 aside#sidebar .nav li {
