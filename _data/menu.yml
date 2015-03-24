@@ -9,3 +9,6 @@
       url: /efl/evas/
 - text: Elementary
   url: /elementary/
+
+- text: Python
+  url: /python/
